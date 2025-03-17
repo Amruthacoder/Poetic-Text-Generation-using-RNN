@@ -3,4 +3,4 @@
 Recurrent Neural Networks (RNNs) are widely used for text generation tasks, such as chatbot responses, poetry, and story generation. They process sequential data by maintaining a memory of previous inputs, making them suitable for natural language tasks.
 
 
-In this notebook i have created a RNN model using LSTM model to train the model to guess the next word. In this case training an RNN on Shakespeare’s text to generate new sentences in his writing style.
+In this notebook i have created a RNN model using LSTM model. In this case training an RNN on Shakespeare’s text to generate new sentences in his writing style.
